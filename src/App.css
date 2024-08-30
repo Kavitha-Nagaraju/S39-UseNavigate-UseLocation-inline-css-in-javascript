@@ -1,0 +1,29 @@
+.App {
+  text-align: center;
+}
+
+form{
+  background-color: chartreuse;
+  display: inline-block;
+  width:40%;
+}
+form label{
+  display: inline-block;
+  margin:10px ;
+  width:100px;
+}
+.check{
+  width:10px;
+}
+.application{
+  width:50px;
+}
+.navigation{
+  display: flex;
+  flex-direction: row;
+  background-color: brown;
+  font-size: 2rem;
+  justify-content: space-evenly;
+  border-radius: 10px;
+  border:5px solid black;
+}
